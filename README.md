@@ -6,7 +6,7 @@
 
 ## 🔍 About Me
 
-I'm a passionate **Core and Auxiliary System Officer** with a strong background in **Core Banking Systems (CBS)**, modern **web development**, and enterprise solutions. I specialize in:
+I'm a passionate **Core and Auxiliary System Officer** with experience in **Core Banking Systems (CBS)**, modern **web development**, and enterprise solutions. I specialize in:
 
 - 🧩 **React JS**, **Tailwind CSS**, **Spring Boot**, **Oracle**, **PostgreSQL**, and **Odoo ERP**
 - 🔧 Solving complex problems and automating business processes
@@ -16,7 +16,7 @@ I'm a passionate **Core and Auxiliary System Officer** with a strong background 
 - 🌱 Learning: `Python`, `Django`, and `RESTful APIs`
 - 🔭 Working on: Customizing the **Odoo Attendance Module** to add advanced reporting and automation
 - 🌍 Languages: **Amharic** (Native), **English** (Fluent)
-- ⚡ Fun fact: I once automated a repetitive task at work and saved **10+ hours/week**!
+- ⚡ Fun fact: Being a software developer is more than just sitting at a desk.!
 
 📫 **Reach me anytime:** [sewalews29@gmail.com](mailto:sewalews29@gmail.com)
 
