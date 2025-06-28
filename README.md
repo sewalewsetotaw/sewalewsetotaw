@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sewalew Setotaw!
+![Sewalew Setotaw - GitHub Banner](assets/LinkedIn-Banner.png)
 
-<!--
-**sewalewsetotaw/sewalewsetotaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+I'm a passionate **Core and Auxiliary System Officer** with a strong background in **Core Banking Systems (CBS)**, modern **web development**, and enterprise solutions. I specialize in:
+
+- 🧩 **React JS**, **Tailwind CSS**, **Spring Boot**, **Oracle**, **PostgreSQL**, and **Odoo ERP**
+- 🔧 Solving complex problems and automating business processes
+- 🤝 Collaborating with teams to deliver innovative, scalable solutions
+
+### 🔄 Currently:
+- 🌱 Learning: `Python`, `Django`, and `RESTful APIs`
+- 🔭 Working on: Customizing the **Odoo Attendance Module** to add advanced reporting and automation
+- 🌍 Languages: **Amharic** (Native), **English** (Fluent)
+- ⚡ Fun fact: I once automated a repetitive task at work and saved **10+ hours/week**!
+
+📫 **Reach me anytime:** [sewalews29@gmail.com](mailto:sewalews29@gmail.com)
+
+---
+
+## 🛠️ My Tech Stack
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🖥️ Backend / Databases
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### ⚙️ Tools & ERP
+![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 💻 Featured Project
+
+### [🎯 Quiz App](https://sewalewquizapp.netlify.app/)
+
+A dynamic quiz application built using **React** and **Tailwind CSS**, with questions fetched in real-time from the Open Trivia DB API.
+
+🛠️ **Tech Stack**: `React`, `Tailwind CSS`, `API Integration`
+
+🔗 [View Live App](https://sewalewquizapp.netlify.app/)  
+📁 [Repository](https://github.com/sewalewsetotaw/Sewalew_ALX_Capstone_Project)
+
+---
+
+## 🌐 Get in Touch
+
+Let's connect, collaborate, or just chat tech!
+
+- 📧 **Email**: [sewalews29@gmail.com](mailto:sewalews29@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/sewalew-setotaw](https://www.linkedin.com/in/sewalew-setotaw/)  
+- 🐦 **Twitter**: [@SewalewSetotaw](https://twitter.com/SewalewSetotaw)
+
+---
