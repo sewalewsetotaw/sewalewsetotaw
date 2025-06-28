@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Sewalew Setotaw!
-![Sewalew Setotaw - GitHub Banner](assets/LinkedIn-Banner.png)
+![Sewalew Setotaw - GitHub Banner](./GitHub-Banner.png)
 
 
 ---
